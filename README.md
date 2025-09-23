@@ -1,57 +1,64 @@
-# 📊 Global Sales Analytical Dashboard
-
-## 📌 Project Description
-This repository contains my **first Power BI project**, developed during the course *Microsoft Power BI for Business Intelligence and Data Science (DSA)*.  
-The goal was to create a **Global Sales Analytical Dashboard**, transforming business questions into **clear and actionable insights**.
+# 📊 Dashboard Analítico de Vendas Globais | Global Sales Dashboard
 
 ---
 
-## 🚀 Dashboard Features
-The dashboard was built to answer key business questions, such as:
+## 🇧🇷 Português
 
-- **What is the total sales value?**  
-- **How many sales were made by product category?** (Pie chart — suitable for few categories)  
-- **How many sales were made by country considering delivery priority?** (Stacked bar chart — useful to compare multiple metrics at once)  
-- **What is the average discount per product subcategory?** (Horizontal bar chart — makes comparisons across subcategories easier and more intuitive)  
-- **Which countries had the highest average sales value?** (World map — with a filter applied to display only countries with sales above 250,000, avoiding visual clutter)  
+### 📌 Descrição  
+Este repositório contém meu **primeiro projeto em Power BI**, desenvolvido durante o curso **Microsoft Power BI para Business Intelligence e Data Science (DSA)**.  
+O objetivo foi criar um **Dashboard Analítico de Vendas Globais**, transformando questões de negócio em **visualizações claras e acionáveis**.
 
-Additionally, **data slicers** were added, allowing the user to filter results by **year, segment, and country**, making the dashboard fully **interactive**.
+### 🚀 Funcionalidades do Dashboard  
+- **Valor total vendido**.  
+- **Volume de vendas por categoria de produto** (gráfico de pizza).  
+- **Total de vendas por país considerando a prioridade de entrega** (gráfico de barras empilhadas).  
+- **Média de desconto por subcategoria de produto** (gráfico de barras horizontais, que facilita a comparação entre todas as subcategorias).  
+- **Média de vendas por país** (mapa interativo com filtro para exibir apenas países acima de 250 mil em vendas, evitando poluição visual).  
 
----
+🔎 Também foram aplicados **segmentadores de dados** que permitem filtrar por **ano, segmento e país**, tornando o painel **interativo**.
 
-## 🧪 Data Preparation
-The project also introduced the use of **Power Query**, where I learned how to:
-- Identify and standardize **data types**:  
-  - ABC = Text  
-  - Calendar = Date  
-  - 1.2 = Decimal  
-  - 123 = Whole Number  
-
-This step is fundamental to ensure **data quality and consistency**.
+### 🎯 Aprendizados  
+- Reconhecimento e padronização de **tipos de dados** no Power Query (Texto, Data, Decimal e Inteiro).  
+- Escolha de **visualizações adequadas** para cada tipo de análise.  
+- Aplicação de **filtros e segmentações** para melhorar a clareza.  
+- Importância da **formatação e do design** para destacar as informações principais.  
 
 ---
 
-## 🎯 Key Learnings
-- Recognizing and cleaning data types in **Power Query**.  
-- Choosing the **right visualization** for each business question.  
-- Applying **filters** to improve readability of visualizations.  
-- Enhancing user experience through **formatting and dashboard design**.  
-- Creating **interactive dashboards** with slicers (Year, Segment, Country).  
+## 🇺🇸 English
+
+### 📌 Description  
+This repository contains my **first Power BI project**, developed during the course **Microsoft Power BI for Business Intelligence and Data Science (DSA)**.  
+The goal was to build a **Global Sales Analytical Dashboard**, transforming business questions into **clear and actionable insights**.
+
+### 🚀 Dashboard Features  
+- **Total sales value**.  
+- **Sales volume by product category** (pie chart).  
+- **Total sales by country considering delivery priority** (stacked bar chart).  
+- **Average discount by product subcategory** (horizontal bar chart — helps compare across all subcategories clearly).  
+- **Average sales by country** (interactive map with a filter to show only countries with sales above 250k, preventing visual clutter).  
+
+🔎 Data slicers were also included, enabling filters by **year, segment, and country**, making the dashboard fully **interactive**.
+
+### 🎯 Key Learnings  
+- Identifying and standardizing **data types** in Power Query (Text, Date, Decimal, Whole Number).  
+- Choosing the **most suitable visualization** for each analysis.  
+- Applying **filters and slicers** to improve readability.  
+- Importance of **formatting and dashboard design** for highlighting key insights.  
 
 ---
 
-## 📂 Repository Structure
-- /data → CSV file used in the project
-- /dashboard → Power BI file (.pbix)
-- /images → Screenshots of the dashboard
+## 📂 Estrutura | Structure
 
-## 🛠️ Tools & Technologies
+- /data → Arquivo CSV usado no projeto | CSV file used in the project
+- /dashboard → Arquivo Power BI (.pbix) | Power BI file (.pbix)
+- /images → Prints do dashboard | Dashboard screenshots
+
+## 🛠️ Tecnologias | Technologies
 - **Power BI Desktop**  
 - **Power Query**  
-- **Data Visualization & BI Concepts**  
+- **Business Intelligence Concepts**  
 
-## 📢 About this project
-This project is part of my learning journey in **Business Intelligence and Data Analytics**. It was developed as an exercise from the **Data Science Academy (DSA)** course.  
-
----
-
+## 📢 Sobre | About
+Este projeto faz parte da minha jornada de aprendizado em **Business Intelligence e Análise de Dados**, desenvolvido como exercício do curso da **Data Science Academy (DSA)**.  
+This project is part of my learning journey in **Business Intelligence and Data Analytics**, developed as an exercise from the **Data Science Academy (DSA)** course.  
