@@ -61,4 +61,5 @@ The goal was to build a **Global Sales Analytical Dashboard**, transforming busi
 
 ## 📢 Sobre | About
 Este projeto faz parte da minha jornada de aprendizado em **Business Intelligence e Análise de Dados**, desenvolvido como exercício do curso da **Data Science Academy (DSA)**.  
+
 This project is part of my learning journey in **Business Intelligence and Data Analytics**, developed as an exercise from the **Data Science Academy (DSA)** course.  
