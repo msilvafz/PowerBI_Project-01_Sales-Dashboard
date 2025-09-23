@@ -41,9 +41,9 @@ This step is fundamental to ensure **data quality and consistency**.
 ---
 
 ## 📂 Repository Structure
-/data → CSV file used in the project
-/dashboard → Power BI file (.pbix)
-/images → Screenshots of the dashboard
+- /data → CSV file used in the project
+- /dashboard → Power BI file (.pbix)
+- /images → Screenshots of the dashboard
 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop**  
